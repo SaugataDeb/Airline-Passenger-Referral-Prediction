@@ -92,4 +92,8 @@ Data includes airline reviews from 2006 to 2019 for popular airlines around the 
   * In Shap summary scatter plot we can see in scatter plot high overall,value for money,numeric_review,cabin service,ground_service positive features and low airline_British_airways is increasing positive prediction and it is common for all models. Also we can see that overall,value for money,numeric_review,cabin service,ground_service has high shap feature value.  
 
 
+## References
+1. GeekforGeeks
+2. Kaggle
+3. Analytics Vidya
 
