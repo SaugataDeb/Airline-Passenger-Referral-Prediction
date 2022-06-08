@@ -41,5 +41,41 @@ Data includes airline reviews from 2006 to 2019 for popular airlines around the 
 
 *   **valueformoney**: Rated between 1-5
 
+## **Feature descriptions briefly as follows:**
+
+
+*   **airline**: Name of the airline in str fromat
+
+*   **overall**: Overall point is given to the trip between 1 to 10 in float format.
+
+
+*   **author**: Author of the trip in str format
+
+
+*   **reviewdate**: Date of the Review customer review: Review of the customers in free text format in str need to be converted into DateTime Format
+
+
+
+*  **aircraft**: Type of the aircraft in str format
+
+*   **travellertype**: Type of traveler (e.g. business, leisure) consist of four class in str format 
+
+
+*   **cabin**: Cabin at the flight date flown: Flight date in str format consist of 4 class.
+
+*  **seatcomfort**: Rated between 1-5 in float format
+
+
+*   **cabin service**: Rated between 1-5 float format
+
+*   **foodbev**: Rated between 1-5 entertainment: Rated between 1-5 in float format
+
+
+*   **groundservice**: Rated between 1-5 in float format
+
+*   **valueformoney**: Rated between 1-5 in float format
+
+
+
 
 
